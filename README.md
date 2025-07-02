@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Victor, a full-stack developer
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/VictorCyprien)
 
 <!--
 **VictorCyprien/VictorCyprien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
