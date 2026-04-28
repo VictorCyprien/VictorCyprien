@@ -1,98 +1,46 @@
-<div align="center">
+## Victor Cyprien
 
-# Hi there, I'm Victor Cyprien 👋
+Full-stack developer — backend & DevOps.
+I design and deploy custom web applications for SMEs and startups.
 
-![Profile Views](https://komarev.com/ghpvc/?username=VictorCyprien&color=61dafb&style=flat-square&label=Profile+Views)
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;3%2B+Years+of+Experience;15%2B+Projects+Completed;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Developer** with over **3 years of experience** creating modern and performant web applications. I'm comfortable with **React** and especially **Python**. I'm always seeking clean, efficient, and innovative solutions.
-
-- 🎯 **Mission**: Bridge the gap between complex technical challenges and user-friendly solutions
-- 🌍 **Location**: Toulouse, France
-- 💼 **Status**: Available for new projects
-- 🎓 **Education**: Master Expert in Information Systems
-- 💡 **Passion**: Clean code, innovation, and continuous learning
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### Other Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+Based in Toulouse, France · Available for new projects
 
 ---
 
-## 🛠️ Some projects I developed
+### Stack
 
-### 📋 Contrapp
-Complete system for managing, generating, and electronically signing apprenticeship contracts. A SaaS platform for training centers that allows them to manage, generate, and electronically sign apprenticeship contracts for their students and their companies.
-
-**Tech Stack**: React, Vite, Python, FastAPI, Supabase, Docker, Redis, Grafana, Prometheus
-
----
-
-### 🏛️ DAO Dashboard
-A comprehensive DAO management platform on the Solana blockchain where users can create, join, and manage DAOs with features like proposal voting, token management, and role-based permissions.
-
-**Tech Stack**: Python, Flask, React, PostgreSQL, Docker, Redis, MinIO S3, Vite, Solana
-
-### 🤖 Discord Bots & Automation
-- **Zealy Bot**: Advanced Discord bot for automated quest management on the Zealy platform
-- **Twitter2Discord**: Notification bot for Twitter follows with Discord integration
-- **Jisu Calenrondo**: YouTube notification bot for Discord servers
-
-**Tech Stack**: Python, MongoDB, Docker, Discord API, Redis
+- **Backend** — Python (FastAPI, Flask)
+- **Frontend** — React, Next.js, TypeScript, Vite
+- **Databases** — PostgreSQL, Supabase, Redis, MongoDB
+- **Infrastructure** — AWS, Terraform, Docker, Linux, Railway
+- **Monitoring** — Grafana, Prometheus, Loki
+- **Messaging** — Apache Kafka, Redis Queue, Amazon SQS
 
 ---
 
-More projects available on my portfolio !
+### Current projects
 
-## 🤝 Let's Connect !
+**Contrapp** — B2B SaaS platform for managing apprenticeship contracts (vocational training sector). Python back-end on Supabase, Stripe integration, full monitoring stack. *In production.*
+My role: back-end + DevOps.
+Stack: Python · FastAPI · Supabase · Stripe · Railway · Linux · Docker · Grafana · Prometheus · Loki
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://victorcyprien.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.cyprien13@gmail.com)
-
-</div>
-
-## ☕ Buy me a coffre
-
-<div align="center">
-
-[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/VictorCyprien)
-
-</div>
+**GymAura** — B2B2C mobile fitness and nutrition coaching app with a contextualized AI coach. Python back-end, AWS infrastructure managed via Terraform. *Beta release upcoming · under NDA.*
+My role: back-end + cloud infrastructure.
+Stack: Python · Supabase · AWS · Terraform · Next.js · Railway
 
 ---
+
+### Notable past project
+
+**DAO Dashboard** — DAO management platform on the Solana blockchain: DAO creation, proposal voting, token management, role-based permissions.
+Stack: Python · Flask · React · PostgreSQL · MinIO/S3 · Solana
+
+---
+
+### How I work
+
+Written scoping before any code is written. Fixed-price quotes by deliverable. End-to-end coverage (full-stack + DevOps) with a single point of contact.
+
+---
+
+[victorcyprien.dev](https://victorcyprien.dev) · [LinkedIn](https://linkedin.com/in/victor-cyprien-7b2a36173) · [Malt](https://malt.fr/profile/victorcyprien) · contact@victorcyprien.dev
