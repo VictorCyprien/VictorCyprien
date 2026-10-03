@@ -39,7 +39,7 @@ Plus Redis Queue.
 
 **AURA**: a sport and nutrition coaching platform, for consumers and as a white-label product for brands, built by BeAble2, where I am a partner. I own the back-end and the infrastructure: three FastAPI services, Railway, Supabase. Under NDA. [Case study, in French](https://victorcyprien.dev/etudes-de-cas/aura/)
 
-**Contrapp**: a SaaS where French apprenticeship training centres create apprenticeship contracts and have them signed online. I took over the API, designed the Supabase database and built the infrastructure all the way to production. [Case study, in French](https://victorcyprien.dev/etudes-de-cas/contrapp/)
+**Contrapp**: a SaaS where French apprenticeship training centres create apprenticeship contracts and have them signed online. I took over the API, improved the Supabase database and built the infrastructure all the way to production. [Case study, in French](https://victorcyprien.dev/etudes-de-cas/contrapp/)
 
 **DAO Dashboard**: a platform to create and run a DAO on Solana: proposals and votes, token price, roles. Built by two of us, from back-end to front-end.
 
